@@ -1,13 +1,7 @@
 altair==4.2.0
-anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
 anaconda-navigator==2.1.2
-anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1626085644852/work
-anyio @ file:///C:/ci/anyio_1620153135622/work/dist
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
-arrow @ file:///C:/ci/arrow_1617738834352/work
-asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astor==0.8.1
 astroid @ file:///C:/ci/astroid_1628063282661/work
 astropy @ file:///C:/ci/astropy_1629829318700/work
