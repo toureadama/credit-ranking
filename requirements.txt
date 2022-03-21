@@ -65,7 +65,6 @@ Sphinx==4.2.0
 statsmodels==0.12.2
 streamlit==1.7.0
 tables==3.6.1
-TBB==0.2
 terminado==0.9.4
 tzdata==2021.5
 tzlocal==4.1
